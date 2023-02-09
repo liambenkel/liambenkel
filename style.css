@@ -1,0 +1,35 @@
+h1 
+{
+    color:maroon;
+}
+#anm_img
+{
+    width: 300px;
+    border-radius: 50%;
+}
+h2 
+{
+    color:blue;
+}
+#guitar_img 
+{
+    width: 300px;
+    border-color: black;
+    border-style: groove;
+}
+
+table, th, td 
+{
+    border: 2px solid;
+}
+h3 
+{
+    color:blueviolet;
+}
+ol {
+    list-style-type: upper-roman;
+}
+body 
+{
+    background-color: antiquewhite;
+}
