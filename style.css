@@ -57,7 +57,7 @@ ol {
 body 
 {
     background-color: #FDFCDC;
-    font-size: 14pt;
+    font-size: 14pts;
 }
 form 
 {
@@ -114,7 +114,7 @@ button[type="submit"]
     color: #FED9B7;
     border-radius: 5px;
     cursor: pointer;
-    width: 95%
+    width: 95%;
 }
 
 button[type="submit"]:hover 
