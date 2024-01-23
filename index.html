@@ -93,19 +93,22 @@
         intensive games.
     </p>
 
-    <form action="mailto:liambenkel@gmail.com" method="post">
+    <form
+        action="https://formspree.io/f/xdoqaejv"
+        method="POST"
+        >
         <p id="feedback">Let me know what types of media you consume! &#128512</p>
-        <h4>Name:</h4>
-        <input type="text" name="full_name" />
-        <h4>E-mail:</h4>
-        <input type="text" name="email" />
-        <h4>Subject:</h4>
-        <input type="text" name="subject" />
-        <h4>Message:</h4>
-        <textarea name="body"></textarea>
-        <div>
-            <button type="submit">Submit Form</button>
-        </div>
+        <label for="full-name">Full Name</label>
+        <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+        <label>
+            E-mail:
+            <input type="email" name="email">
+        </label>
+        <label>
+            Your message:
+            <textarea name="message" placeholder="Type here!" ></textarea>
+        </label>
+        <button type="submit">Send</button>
     </form>
 </body>
 </html>
