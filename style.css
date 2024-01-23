@@ -13,7 +13,7 @@ h1
     border-color: #00AFB9;
     border-style: groove;
 }
-#anm_img
+#media_img
 {
     text-align: center;
     width: 300px;
@@ -23,28 +23,6 @@ h2
 {
     text-align: center;
     color:#0081A7;
-}
-#hobbies 
-{
-    text-align: center;
-}
-#guitar_img 
-{
-    width: 300px;
-    border-color: #00AFB9;
-    border-style: groove;
-}
-table 
-{
-    text-align: center;
-    width: 100%;
-    padding: 10px;
-}
-th, td 
-{
-    border: 2px solid;
-    width: 300px;
-    background-color: #FED9B7;
 }
 h3 
 {
