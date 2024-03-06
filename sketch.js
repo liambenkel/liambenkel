@@ -37,7 +37,7 @@ function startVideo() {
   inputImage = null; 
 
   video = createCapture(VIDEO);
-  video.size(320, 240);
+  video.size(520, 520);
   video.hide();
 
   flippedVideo = ml5.flipImage(video);
